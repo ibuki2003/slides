@@ -1,0 +1,30 @@
+#content{
+    font-size: 3em;
+    padding-left: 30px;
+}
+
+h1,h2{
+    margin: auto;
+    text-align: center;
+}
+
+h3{
+    margin: 0 auto;
+    border-bottom: 1px solid;
+    border-left: 5px solid;
+}
+
+p{
+    word-wrap: normal;
+}
+
+.strong{
+    font-weight: bold;
+}
+.strike{
+    text-decoration: line-through;
+}
+
+img{
+    border: 1px solid;
+}
